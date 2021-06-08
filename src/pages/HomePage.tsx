@@ -1,6 +1,5 @@
 import React from 'react';
-import { Flex, HStack, SimpleGrid } from '@chakra-ui/react';
-import CryptoBox from '../components/ui/CryptoBox';
+import { Flex, HStack } from '@chakra-ui/react';
 import Header from '../components/ui/Header';
 import SideNav from '../components/ui/SideNav';
 import MainSection from '../components/main/MainSection';
